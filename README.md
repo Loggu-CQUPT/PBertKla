@@ -1,10 +1,12 @@
 # PBertKla
 
-Installation has been tested in Ubuntu 22.04 with Python 3.7.
+
+
+
 
 # Installation
 
-Installation has been tested in Ubuntu 22.04 with Python 3.7.
+Installation has been tested in Ubuntu 22.04 with Python 3.7.Work time about 25min.
 
 Below are the Python packages required by PBertKla:
   tensorflow (2.4.0)
